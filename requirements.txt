@@ -1,0 +1,7 @@
+numpy
+sounddevice
+torch
+faster-whisper
+kokoro
+openai
+silero-vad
